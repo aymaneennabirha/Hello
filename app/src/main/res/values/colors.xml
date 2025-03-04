@@ -1,0 +1,8 @@
+<resources>
+    <color name="backgroundYellow">#FFFF00</color>
+
+    <color name="buttonOrange">#FFA500</color>
+    <color name="buttonOrangeDark">#FF8C00</color>
+    <color name="darkBlue">#00008B</color>
+
+</resources>

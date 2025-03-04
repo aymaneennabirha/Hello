@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello</string>
+    <string name="choisissez_une_ville">Choisissez une ville</string>
+    <string-array name="villes">
+        <item>rabat</item>
+        <item>casablanca</item>
+        <item>eljadida</item>
+        <item>marrakech</item>
+        <item>Tanger</item>
+    </string-array>
+</resources>

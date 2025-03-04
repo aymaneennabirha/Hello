@@ -1,0 +1,11 @@
+<resources>
+    <style name="Theme.Hello" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/backgroundYellow</item>
+
+        <item name="colorPrimary">@color/buttonOrange</item>
+        <item name="colorPrimaryDark">@color/buttonOrangeDark</item>
+        <item name="colorAccent">@color/buttonOrange</item>
+
+        <item name="android:textColorPrimary">@android:color/white</item>
+    </style>
+</resources>
